@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.MatchCard {
+  list-style-type: none;
+  background-color: #0f172a;
+  border-radius: 12px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  width: 250px;
+  text-align: center;
+  margin: 15px;
+}
+.MatchCard-logo {
+  width: 80%;
+}
+
+.green {
+  color: #18ed66;
+  font-size: 22px;
+}
+.red {
+  color: #e31a1a;
+  font-size: 22px;
+}

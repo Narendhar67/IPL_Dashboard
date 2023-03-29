@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.latestMatch-container {
+  font-family: 'Bree Serif';
+  background-color: #1e293b;
+  color: #ffffff;
+  width: 100%;
+  border-radius: 12px;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.competingTeamLogo {
+  width: 20vw;
+}
